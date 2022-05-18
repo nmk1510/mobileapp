@@ -111,10 +111,10 @@ header {
 .back { text-align: left; }
 
 #btn99 {
-    padding: 0.5cm;
-    border-radius: 0.3cm;
+    padding: 0.3cm;
+    border-radius: 0.2cm;
     color: whitesmoke;
-    font-size: 1.5cm;
+    font-size: 1cm;
     background: rgb(26,212,212);
     cursor: pointer;
 }
