@@ -113,8 +113,8 @@ header {
 #btn99 {
     padding: 0.3cm;
     border-radius: 0.15cm;
-    color: back;
-    font-size: 0.5cm;
+    color: whitesmoke;
+    font-size: 1cm;
     background: rgb(26,212,212);
     cursor: pointer;
 }
