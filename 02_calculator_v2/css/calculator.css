@@ -56,18 +56,7 @@ h1 {
   margin: 0;
   padding: 0;
 }
-.btn {
-  display: inline-block;
-  color: whitesmoke;
-  border: solid 0.02px rgb(241, 241, 241);
-  border-bottom: solid 4px grey;
-  border-radius: 10px;
-  background: rgb(26, 212, 212);
-  text-align: center;
-  vertical-align: middle;
-  cursor: pointer;
-  user-select: none;
-}
+
 input[type=number] {
   margin: 0.05em;
   padding: 0;
@@ -117,7 +106,17 @@ input[type=number] {
 #btnEqual:active {
   transform: translateY(4px);
 }
-
+.back{
+  text-align: left;
+}
+#btn99{
+  padding: 0.5em;
+  border-radius: 0.3em;
+  color: whitesmoke;
+  font-size: 1.5em;
+  background: rgb(26, 212, 212);
+  cursor: pointer; /*カーソルをポインターの形（かたち）にする*/
+}
 #result  {
   margin: 0.05em;
   padding: 0;
