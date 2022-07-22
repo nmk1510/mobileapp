@@ -32,7 +32,7 @@ body{
     /* background-blend-mode: soft-light; */
         /* https://developer.mozilla.org/ja/docs/Web/CSS/background-blend-mode */
 
-    background-image: url(../phoneapp/img/abc.jpg);
+    background-image: url(../img/abc.jpg);
         /* https://developer.mozilla.org/ja/docs/Web/CSS/background-image */
     background-size: cover;
         /* https://developer.mozilla.org/ja/docs/Web/CSS/background-size */
@@ -52,7 +52,7 @@ header, footer, h1, h2, h3, p, div, .container01, .filler01 {
 /*****************************/
 h1 {
     font: 2em Rajdhani, "Noto Sans JP";
-    color: rgb(83, 158, 135);
+    color: rgb(243, 247, 246);
     background-image: radial-gradient(circle 248px at center, #72e4be 0%, #4dad89 47%, #3b8d74 100%);
 }
 
